@@ -1,0 +1,7 @@
+{
+  "utterance": "show me the way to principals room",
+  "intent_type": "ShowMetheWayToprincipalsroomroomIntent",
+  "intent": {
+    "ShowMetheWayToprincipalsroomKeyword": "show me the way to to principls room"
+  }
+}

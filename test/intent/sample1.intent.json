@@ -1,0 +1,7 @@
+{
+  "utterance": "where is officeroom",
+  "intent_type": "ShowMetheWayToOfficeroomIntent",
+  "intent": {
+    "ShowMetheWayToOfficeroomKeyword": "where is officeroom"
+  }
+}

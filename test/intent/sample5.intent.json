@@ -1,0 +1,7 @@
+{
+  "utterance": "where is the toilet",
+  "intent_type": "ShowMetheWayToToiletIntent",
+  "intent": {
+    "ShowMetheWayToToiletKeyword": "where is the toilet"
+  }
+}
